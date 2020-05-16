@@ -1,5 +1,5 @@
 {
-  "name": "wp-graphql/wp-graphql-acf",
+  "name": "peritus/wp-graphql-acf",
   "description": "Advanced Custom Fields bindings for wp-graphql",
   "type": "wordpress-plugin",
   "license": "GPL-3.0+",
